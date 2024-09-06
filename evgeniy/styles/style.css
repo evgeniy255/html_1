@@ -1,0 +1,10 @@
+body {
+    background-color: brown; 
+}
+/* покрасил задний фон*/
+ul {
+    display: inline;
+}
+ul li {
+    display: inline;
+}
